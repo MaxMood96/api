@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,271,111,297"/>
+<area shape="rect" id="node2" href="$structcppgc_1_1internal_1_1HasFinalizeGarbageCollectedObject.html" title=" " alt="" coords="171,5,349,61"/>
+<area shape="rect" id="node3" href="$structcppgc_1_1internal_1_1IsGarbageCollectedMixinType.html" title=" " alt="" coords="175,85,345,141"/>
+<area shape="rect" id="node5" href="$structcppgc_1_1internal_1_1IsMemberType.html" title=" " alt="" coords="175,165,345,206"/>
+<area shape="rect" id="node6" href="$structcppgc_1_1internal_1_1IsTraceMethodConst.html" title=" " alt="" coords="164,230,356,271"/>
+<area shape="rect" id="node7" href="$structcppgc_1_1internal_1_1IsTraceable.html" title=" " alt="" coords="171,295,349,337"/>
+<area shape="rect" id="node8" href="$structcppgc_1_1internal_1_1IsUntracedMemberType.html" title=" " alt="" coords="173,361,347,402"/>
+<area shape="rect" id="node9" href="$structcppgc_1_1internal_1_1IsWeak.html" title=" " alt="" coords="167,427,353,453"/>
+<area shape="rect" id="node10" href="$structcppgc_1_1internal_1_1IsWeakMemberType.html" title=" " alt="" coords="159,478,361,519"/>
+<area shape="rect" id="node4" href="$structcppgc_1_1internal_1_1IsGarbageCollectedType.html" title=" " alt="" coords="409,93,607,134"/>
+</map>

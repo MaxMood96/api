@@ -1,0 +1,13 @@
+<map id="cppgc::HeapStatistics::SpaceStatistics" name="cppgc::HeapStatistics::SpaceStatistics">
+<area shape="rect" id="node1" title=" " alt="" coords="1193,123,1343,164"/>
+<area shape="rect" id="node2" href="$structcppgc_1_1HeapStatistics_1_1FreeListStatistics.html" title=" " alt="" coords="911,95,1060,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="612,118,751,145"/>
+<area shape="rect" id="node10" href="$structcppgc_1_1HeapStatistics_1_1ObjectStatistics.html" title=" " alt="" coords="911,160,1060,201"/>
+<area shape="rect" id="node4" title=" " alt="" coords="253,118,365,145"/>
+<area shape="rect" id="node6" title=" " alt="" coords="573,25,789,67"/>
+<area shape="rect" id="node11" title=" " alt="" coords="601,202,761,229"/>
+<area shape="rect" id="node5" title=" " alt="" coords="48,118,87,145"/>
+<area shape="rect" id="node7" href="$structcppgc_1_1HeapStatistics_1_1PageStatistics.html" title=" " alt="" coords="235,5,384,47"/>
+<area shape="rect" id="node8" title=" " alt="" coords="270,230,349,257"/>
+<area shape="rect" id="node9" title=" " alt="" coords="5,223,129,264"/>
+</map>

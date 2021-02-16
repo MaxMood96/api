@@ -1,0 +1,19 @@
+<map id="include/cppgc/member.h" name="include/cppgc/member.h">
+<area shape="rect" id="node1" title=" " alt="" coords="209,5,372,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="209,437,270,464"/>
+<area shape="rect" id="node3" title=" " alt="" coords="46,87,111,114"/>
+<area shape="rect" id="node4" title=" " alt="" coords="320,437,402,464"/>
+<area shape="rect" id="node5" href="$pointer-policies_8h.html" title=" " alt="" coords="313,80,460,121"/>
+<area shape="rect" id="node11" href="$v8config_8h.html" title=" " alt="" coords="544,355,624,382"/>
+<area shape="rect" id="node15" href="$type-traits_8h.html" title=" " alt="" coords="698,355,826,382"/>
+<area shape="rect" id="node6" title=" " alt="" coords="294,177,356,203"/>
+<area shape="rect" id="node7" href="$write-barrier_8h.html" title=" " alt="" coords="380,169,515,211"/>
+<area shape="rect" id="node16" href="$source-location_8h.html" title=" " alt="" coords="620,177,779,203"/>
+<area shape="rect" id="node8" href="$api-constants_8h.html" title=" " alt="" coords="192,259,316,300"/>
+<area shape="rect" id="node12" href="$process-heap_8h.html" title=" " alt="" coords="340,259,494,300"/>
+<area shape="rect" id="node14" href="$trace-trait_8h.html" title=" " alt="" coords="671,266,798,293"/>
+<area shape="rect" id="node9" title=" " alt="" coords="192,355,260,382"/>
+<area shape="rect" id="node10" title=" " alt="" coords="285,355,349,382"/>
+<area shape="rect" id="node13" href="$atomic-entry-flag_8h.html" title=" " alt="" coords="373,348,520,389"/>
+<area shape="rect" id="node17" title=" " alt="" coords="822,266,876,293"/>
+</map>

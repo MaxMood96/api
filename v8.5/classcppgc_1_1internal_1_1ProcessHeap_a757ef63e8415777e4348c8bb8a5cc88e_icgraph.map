@@ -1,0 +1,5 @@
+<map id="cppgc::internal::ProcessHeap::IsAnyIncrementalOrConcurrentMarking" name="cppgc::internal::ProcessHeap::IsAnyIncrementalOrConcurrentMarking">
+<area shape="rect" id="node1" title=" " alt="" coords="507,5,744,61"/>
+<area shape="rect" id="node2" href="$classcppgc_1_1internal_1_1WriteBarrier.html#a3f2e257ae7dd38e9eb361b3d0fc22027" title=" " alt="" coords="280,13,459,54"/>
+<area shape="rect" id="node3" href="$structcppgc_1_1internal_1_1DijkstraWriteBarrierPolicy.html#ae117911156c06e2ec91d322320399ffd" title=" " alt="" coords="5,13,232,54"/>
+</map>
